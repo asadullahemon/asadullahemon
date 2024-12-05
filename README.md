@@ -3,4 +3,6 @@ Hi there! I'm learning Software Quality Assurance (SQA) engineering.<br>I have e
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+https://www.linkedin.com/in/asadullah-emon-910996339/
+
 
