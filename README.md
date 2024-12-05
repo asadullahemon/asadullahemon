@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @asadullahemon
-- 👀 I’m interested in SQA
-- 🌱 I’m currently learning WEB & MOBILE Automation
-- 📫 How to reach me  (Linkdin)  https://www.linkedin.com/in/asadullah-emon-910996339
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-asadullahemon/asadullahemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm learning Software Quality Assurance (SQA) engineer.
+I have experience in both manual and automated testing.
+Feel free to browse my repositories and projects.
+I'm familiar with Selenium, JUnit, and TestNG.
+Passionate about SQA
+Let's connect!
