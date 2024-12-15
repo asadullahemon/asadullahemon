@@ -2,13 +2,11 @@
 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Asadullah+Emon." />
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=SQA+Engineer." alt="Typing SVG" /></a></h3>
-  
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=SQA+Engineer." alt="Typing SVG" /></a></h3>  
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on **Automation and Manual Testing**
 - 💬 Ask me about **Automation Testing, Manual Testing, API Testing**
-
 
   
 ## 🌐 Socials:
