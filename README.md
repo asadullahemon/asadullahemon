@@ -1,5 +1,4 @@
 [![](https://visitcount.itsvg.in/api?id=Asadullahemon&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
-# 💫 About Me:
 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Asadullah+Emon." />
 
