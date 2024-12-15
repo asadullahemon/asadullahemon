@@ -9,10 +9,10 @@
 - 💬 Ask me about **Automation Testing, Manual Testing, API Testing**
 
   
-<h3 align="left">Connect with me:🌐 Socials:</h3> 
+<h3 align="left">Connect with me 🌐 Socials:</h3> 
 
 <p align="left">
-<a href="asadullahemon535@gmail.com"><img src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:asadullahemon535@gmail.com"><img src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="https://www.linkedin.com/in/asadullah-emon-910996339/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/>
 
 
