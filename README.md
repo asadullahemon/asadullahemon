@@ -9,7 +9,7 @@
 - 💬 Ask me about **Automation Testing, Manual Testing, API Testing**
 
   
-## 🌐 Socials:
+<h3 align="left">Connect with me:🌐 Socials:</h3> 
 
 <p align="left">
 <a href="asadullahemon535@gmail.com"><img src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
